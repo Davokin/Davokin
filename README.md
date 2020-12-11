@@ -6,7 +6,7 @@ Nice to see you! 😄
 Gist About me:
 
 - 🎤 I am a passonate Product designer and Frontend developer
-- 🌱 Learning everyday, currently learning to master GraphQL, React, TS etc ...
+- 🌱 Learning everyday, currently learning Java and Kotlin ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Ask me about everything you want to know!
 - 📬 How to reach me: <a href="mailto:felbeeey@gmx.net">Let's get in touch!</a>
