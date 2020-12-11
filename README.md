@@ -14,4 +14,4 @@ Gist About me:
 
 ### Other places you can find me 
 
-- ⚡ Here you can find more about me and my person: <a href="https://linktr.ee/felbeeey">Klick!</a>
+- ⚡ <a href="https://linktr.ee/felbeeey">Klick here!</a>
