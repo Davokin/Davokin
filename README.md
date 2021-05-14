@@ -1,7 +1,7 @@
 ### Hi there It's me Dominic! 👋
 Nice to see you! 😄
 
-![](https://komarev.com/ghpvc/?username=felbeeey&color=grey)
+![](https://komarev.com/ghpvc/?username=felbeeey&style=flat-square)
 
 Gist About me:
 
