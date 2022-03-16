@@ -1,4 +1,4 @@
-### Hi there It's me Dominic! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 👋
+### Hi there It's me Dominic!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Nice to see you! 😄
 
 ![](https://komarev.com/ghpvc/?username=felbeeey&style=flat-square)
@@ -22,4 +22,4 @@ Gist About me:
 
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. I love trying out new technologies and update with modern tools helping our lives more easier.
 
-Happy coding !!
+Happy coding !! 👋
