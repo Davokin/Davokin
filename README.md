@@ -12,20 +12,18 @@
 
 ### Gist About me:
 
-- 🎤 I am a passonate Product designer and Frontend developer
-- 🌱 Learning everyday, currently learning Java and Kotlin ...
+- 🎤 I am a web developer and digital designer and passionate back end developer
+- 🌱 Learning everyday, currently learning C# ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Ask me about everything you want to know!
-- 📬 How to reach me: <a href="mailto:felbeeey@gmx.net">Let's get in touch!</a>
+- 📬 How to reach me: <a href="mailto:dominic@felber.ink">Let's get in touch!</a>
 - 😄 Motto: be greatful...
 
 ### Other places you can find me 
 
-- 🎤 <a href="https://discord.gg/JUpWsf">Discord</a>
+- 🎤 <a href="ts3server://ts3.felber.ink?addbookmark=iF7">TeamSpeak</a>
 - 📺 <a href="https://twitch.tv/felbeeey">Twitch</a>
-- 🐣 <a href="https://www.twitter.com/felbeeey">Twitter</a>
 - 🏀 <a href="https://open.spotify.com/user/dominicfelber?si=pCDjhXuCR9CDfooJSWjN_w">Spotify</a>
-- 🎥 <a href="https://www.youtube.com/channel/UC2g4Kginuihvsr-f5up6MIQ">YouTube</a>
 
 ### Languages and Tools
 
