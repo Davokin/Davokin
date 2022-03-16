@@ -1,7 +1,6 @@
 ### Hi there It's me Dominic!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Nice to see you! 😄
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=davokin.davokin)
 ![](https://komarev.com/ghpvc/?username=felbeeey&style=flat-square)
 
 Gist About me:
