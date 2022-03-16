@@ -12,7 +12,7 @@
 
 ### Gist About me:
 
-- 🎤 I am a web developer and digital designer and passionate back end developer
+- 🎤 I am a web developer, digital designer and a passionate back end developer
 - 🌱 Learning everyday, currently learning C# ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Ask me about everything you want to know!
