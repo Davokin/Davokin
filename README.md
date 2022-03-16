@@ -21,7 +21,7 @@
 
 ### Other places you can find me 
 
-- 🎤 <a href=ts3server://ts3.felber.ink?addbookmark=iF7>TeamSpeak</a>
+- 🎤 <a href="ts3server://freunde-weltweit.de">Freunde-Weltweit.de</a>
 - 📺 <a href="https://twitch.tv/felbeeey">Twitch</a>
 - 🏀 <a href="https://open.spotify.com/user/dominicfelber?si=pCDjhXuCR9CDfooJSWjN_w">Spotify</a>
 
