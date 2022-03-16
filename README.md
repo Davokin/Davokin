@@ -5,7 +5,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hi there It's me Dominic! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h1 align="center">Nice to see you! 😄</h1>
+<p align="center">Nice to see you! 😄</p>
 
 
 Gist About me:
