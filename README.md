@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://forums.unraid.net/uploads/monthly_2022_02/70-2_cut-crop.png.bc66e194be200ef3fa1f56970b909709.png" width="100"/>
 </div>
 
 ### Hi there It's me Dominic!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
