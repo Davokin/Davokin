@@ -22,7 +22,7 @@ Gist About me:
 
 ### ⚡ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davokin&layout=compact&count_private=true&theme=gruvbox" />
 
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. I love trying out new technologies and update with modern tools helping our lives more easier.
 
