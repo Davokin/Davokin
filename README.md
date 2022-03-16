@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <img src="https://70insign.com/assets/img/introduction-visual.png" width="250"/>
+  <img src="https://70insign.com/assets/img/introduction-visual.png" width="200"/>
 </div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 ### Hi there It's me Dominic!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Nice to see you! 😄
-
-![](https://komarev.com/ghpvc/?username=felbeeey&style=flat-square)
 
 Gist About me:
 
