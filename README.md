@@ -20,6 +20,10 @@ Gist About me:
 - 🏀 <a href="https://open.spotify.com/user/dominicfelber?si=pCDjhXuCR9CDfooJSWjN_w">Spotify</a>
 - 🎥 <a href="https://www.youtube.com/channel/UC2g4Kginuihvsr-f5up6MIQ">YouTube</a>
 
+### ⚡ GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
+
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. I love trying out new technologies and update with modern tools helping our lives more easier.
 
 Happy coding !! 👋
