@@ -6,7 +6,9 @@
 
 <h1 align="center">Hi there It's me Dominic! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">Nice to see you! 😄</p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
+</br>
 
 Gist About me:
 
