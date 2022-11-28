@@ -19,7 +19,7 @@
 
 - 🎤 <a href="https://invite.teamspeak.com/ts3.felber.ink/">TeamSpeak</a>
 - 📺 <a href="https://twitch.tv/d3vop3r4t0r">Twitch</a>
-- 🏀 <a href="https://open.spotify.com/user/dominicfelber?si=pCDjhXuCR9CDfooJSWjN_w">Spotify</a>
+- elephant <a href="https://troet.cafe/@davokin">Mastodon</a>
 
 ### Languages and Tools
 
