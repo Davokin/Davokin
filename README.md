@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there It's me Dominic! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">Nice to see you! 😄</p>
-<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400" height="200"  /></p>
 
 </br>
 
