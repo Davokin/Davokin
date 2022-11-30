@@ -3,8 +3,8 @@
 <h1 align="center">Hi there It's me Dominic! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">Nice to see you! 😄</p>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation]([https://github.com/Davokin/Davokin/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation]([https://github.com/Davokin/Davokin/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![Contribution snake](https://github.com/Davokin/Davokin/blob/output/github-contribution-grid-snake.svg)
 
