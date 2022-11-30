@@ -4,7 +4,8 @@
 <p align="center">Nice to see you! 😄</p>
 
 <p align="center"><img src="https://github.com/Davokin/Davokin/blob/output/github-contribution-grid-snake.svg" /></p>
-![Contribution snake](https://github.com/Davokin/Davokin/blob/output/github-contribution-grid-snake.svg)
+
+<!-- ![Contribution snake](https://github.com/Davokin/Davokin/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- Header picture -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400" height="200"  /></p> -->
