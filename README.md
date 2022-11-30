@@ -2,8 +2,11 @@
 
 <h1 align="center">Hi there It's me Dominic! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">Nice to see you! 😄</p>
+<!--
+![Contribution snake example](https://github.com/Davokin/Davokin/blob/output/github-contribution-grid-snake.svg)
+-->
 <!-- Header picture -->
-<p align="center"><img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400" height="200"  /></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="400" height="200"  /></p> -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="200"  /></p> -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/C4ocyh1QZi6dNOwJ4X/giphy.gif" width="400" height="200"  /></p> -->
 
