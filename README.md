@@ -40,4 +40,4 @@ I strongly belive we the professionals of tech industry need to learn and innova
 
 Happy coding !! 👋
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=davokin&style=flat-square&color=blue" alt=""></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=davokin&style=flat-square&color=blue" alt=""></p>
