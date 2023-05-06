@@ -14,9 +14,10 @@
 ### Other places you can find me 
 
 - 🦊 <a href="https://gitlab.com/Davokin">GitLab</a>
+- 🐘 <a href="https://troet.cafe/@davokin">Mastodon</a>
 - 🎤 <a href="https://invite.teamspeak.com/ts3.felber.ink/">TeamSpeak</a>
 - 📺 <a href="https://twitch.tv/d3vop3r4t0r">Twitch</a>
-- 🐘 <a href="https://troet.cafe/@davokin">Mastodon</a>
+
 
 ### Languages and Tools
 
