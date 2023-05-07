@@ -23,7 +23,6 @@
 
 <p>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="hhttps://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
