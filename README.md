@@ -17,7 +17,7 @@
 - 🐘 <a rel="me" href="https://troet.cafe/@davokin">Mastodon</a>
 - 🎤 <a href="https://invite.teamspeak.com/ts3.felber.ink/">TeamSpeak</a>
 - 📺 <a href="https://twitch.tv/d3vop3r4t0r">Twitch</a>
-
+ 
 
 ### Languages and Tools
 
