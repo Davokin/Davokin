@@ -8,15 +8,13 @@
 - 🌱 Learning everyday, currently learning C# ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Ask me about everything you want to know!
-- 📬 How to reach me: <a href="mailto:dominic@felber.ink">Let's get in touch!</a>
 - 😄 Motto: be greatful...
 
 ### Other places you can find me 
 
 - 🦊 <a href="https://gitlab.com/Davokin">GitLab</a>
+- 🦊 <a href="https://codeberg.org/Davokin">Codeberg</a>
 - 🐘 <a rel="me" href="https://troet.cafe/@davokin">Mastodon</a>
-- 🎤 <a href="https://invite.teamspeak.com/ts3.felber.ink/">TeamSpeak</a>
-- 📺 <a href="https://twitch.tv/d3vop3r4t0r">Twitch</a>
  
 
 ### Languages and Tools
