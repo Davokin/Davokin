@@ -13,7 +13,7 @@
 ### Other places you can find me 
 
 - 🦊 <a href="https://gitlab.com/Davokin">GitLab</a>
-- 🦊 <a href="https://codeberg.org/Davokin">Codeberg</a>
+- 🌋 <a href="https://codeberg.org/Davokin">Codeberg</a>
 - 🐘 <a rel="me" href="https://troet.cafe/@davokin">Mastodon</a>
  
 
