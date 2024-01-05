@@ -12,12 +12,13 @@
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Ask me about everything you want to know!
 - 😄 Motto: be greatful...
+</br>
 
 ### Other places you can find me 
 
 - 🌋 <a href="https://codeberg.org/Davokin">Codeberg</a>
 - 🐘 <a rel="me" href="https://troet.cafe/@davokin">Mastodon</a>
- 
+</br>
 
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. I love trying out new technologies and update with modern tools helping our lives more easier.
 
