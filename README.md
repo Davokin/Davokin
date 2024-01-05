@@ -1,4 +1,4 @@
-<h1 align="center">Hi there It's me Dominic! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there It's me Dominic! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://nogithub.codeberg.page"><img src="https://nogithub.codeberg.page/badge.svg" alt="Please don't upload to GitHub"></a></h1>
 <p align="center">Nice to see you! 😄</p>
 </br>
 
