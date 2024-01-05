@@ -2,7 +2,7 @@
 <p align="center">Nice to see you! 😄</p>
 </br>
 
-<h2 align="center">If you are looking for my repositories, they have all been migrated to <a href="https://codeberg.org/Davokin">Codeberg</a>!</h2>
+<h2 style="color: #ff0000" align="center">If you are looking for my repositories, they have all been migrated to <a href="https://codeberg.org/Davokin">Codeberg</a>!</h2>
 </br>
 
 ### Gist About me:
